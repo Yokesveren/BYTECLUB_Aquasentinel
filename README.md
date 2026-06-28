@@ -7,7 +7,7 @@
 **Built by Team BYTECLUB · Coastal Innovation Hackathon 2025**
 **Track: Smart & Sustainable Cities**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-00d4aa?style=for-the-badge)](https://your-deployment-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-00d4aa?style=for-the-badge)](https://byteclub-aquasentinel.vercel.app/dashboard)
 [![GitHub](https://img.shields.io/badge/GitHub-BYTECLUB__Aquasentinel-1a2d45?style=for-the-badge&logo=github)](https://github.com/Yokesveren/BYTECLUB_Aquasentinel)
 [![TypeScript](https://img.shields.io/badge/TypeScript-98%25-378add?style=for-the-badge&logo=typescript)](https://github.com/Yokesveren/BYTECLUB_Aquasentinel)
 
