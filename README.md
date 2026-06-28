@@ -361,7 +361,7 @@ The SQLite database is created and seeded automatically on first run. No `.env` 
 
 ## ☁️ Deployment
 
-### Backend — Render or Railway
+### Backend — Render 
 - Root directory: `server`
 - Build: `npm install && npm run build`
 - Start: `node dist/index.js`
